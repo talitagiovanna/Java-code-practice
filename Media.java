@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 /*
-2. Fazer um programa para receber 3 valores inteiros do usuário e 
-mostrar a sua média (que pode não ser inteira).
+2. Create a program to receive 3 integer values from the user and show their average (which may not be an integer).
 */
 
 public class Media {

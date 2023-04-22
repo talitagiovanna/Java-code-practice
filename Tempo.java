@@ -1,10 +1,9 @@
 import java.util.Scanner;
 
 /*
-1. Fazer um programa para:
-(a) receber do usuário um tempo em segundos, correspondente à duração de um
-evento qualquer (por ex. jogo de futebol);
-(b) calcular e mostrar ao usuário o tempo equivalente em horas, minutos e segundos.
+1. Create a program to:
+(a) receive from the user a time in seconds, corresponding to the duration of any event (e.g. a soccer game);
+(b) calculate and show the user the equivalent time in hours, minutes, and seconds.
 */
 
 public class Tempo {
