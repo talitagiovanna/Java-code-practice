@@ -13,5 +13,4 @@ The objective of this project is to enhance my Java skills and problem-solving a
 ## List of Questions
 | Question Number | Description                                         |
 |-----------------|-----------------------------------------------------|
-| Question 1      | receber do usuário um tempo em segundos, correspondente à duração de um
-evento qualquer, calcular e mostrar ao usuário o tempo equivalente em horas, minutos e segundos.|
+| Question 1      | receber do usuário um tempo em segundos, correspondente à duração de um evento qualquer, calcular e mostrar ao usuário o tempo equivalente em horas, minutos e segundos.|
