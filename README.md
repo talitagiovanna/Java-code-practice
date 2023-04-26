@@ -15,3 +15,4 @@ The objective of this project is to enhance my Java skills and problem-solving a
 |-----------------|-----------------------------------------------------|
 | Question 1      | Receive from the user a time in seconds, corresponding to the duration of any event, calculate and show the user the equivalent time in hours, minutes, and seconds.|
 | Question 2      | Create a program to receive 3 integer values from the user and show their average (which may not be an integer). |
+| Question 3      | Make a program to calculate a parabolic trajectory. |
