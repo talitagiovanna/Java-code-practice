@@ -25,5 +25,7 @@ public class Media {
 
         System.out.println("A média dos valores inseridos é: " + media);
 
+        scanner.close();
+
     }
 }
