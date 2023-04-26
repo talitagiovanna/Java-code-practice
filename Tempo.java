@@ -23,5 +23,7 @@ public class Tempo {
         segundos_restantes = segundos_restantes % 60;
 
         System.out.println(segundos + " segundos são equivalentes a " + horas + " horas, " + minutos + " minutos e " + segundos_restantes + " segundos.");
+
+        scanner.close();
     }
 }
